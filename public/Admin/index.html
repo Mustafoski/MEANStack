@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="lunchBarAdmin">
+    <head>
+        <title>Administration</title>
+          <link href="../node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<link href="../node_modules/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    </head>
+<body>
+
+
+             <mh-navigation></mh-navigation>
+
+        <br>
+        <br>
+
+
+
+            <ng-view />
+
+
+
+
+
+
+
+    <script src="../node_modules/angular/angular.js"></script>
+    <script src="../node_modules/angular-route/angular-route.js"></script>
+    <script src="../node_modules/angular-jwt/dist/angular-jwt.js"></script>"
+    <script src="../node_modules/jquery/dist/jquery.js"></script>
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>
+
+
+     <script src="app.js"></script>
+    <script src="controllers/mainController.js"></script>
+    <script src="controllers/orderController.js"></script>
+    <script src="login/login-controller.js"></script>
+    <script src="navigation-directive/navigation-directive.js"></script>
+    <script src="auth/auth-interceptor.js"></script>
+    <script src="auth/auth-factory.js"></script>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,91 @@
+[{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd21"
+	},
+	"name": "Hamburger",
+	"price": 80.0,
+	"description": "This is a hamburger",
+	"category": "Fast Food"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd22"
+	},
+	"name": "Chikenburger",
+	"price": 80.0,
+	"description": "This is a Chikenburger",
+	"category": "Fast Food"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd23"
+	},
+	"name": "Toast",
+	"price": 50.0,
+	"description": "This is a toast",
+	"category": "Fast Food"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd24"
+	},
+	"name": "Chiken Fingers",
+	"price": 180.0,
+	"description": "This is a Chiken Fingers",
+	"category": "Fast Food"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd25"
+	},
+	"name": "Chiken wings",
+	"price": 180.0,
+	"description": "This is a Chiken Wings",
+	"category": "Fast Food"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd26"
+	},
+	"name": "Pancakes",
+	"price": 80.0,
+	"description": "This is a Pancakes",
+	"category": "Desert"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd27"
+	},
+	"name": "Wafle",
+	"price": 100.0,
+	"description": "This is a Wafle",
+	"category": "Desert"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd28"
+	},
+	"name": "Coca Cola",
+	"price": 80.0,
+	"description": "This is a Coca Cola",
+	"category": "Drink"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd29"
+	},
+	"name": "Fanta",
+	"price": 80.0,
+	"description": "This is a Fanta",
+	"category": "Drink"
+},
+{
+	"_id": {
+		"$oid": "586ba04a70ae7058a352cd2a"
+	},
+	"name": "Beer",
+	"price": 80.0,
+	"description": "This is a Beer",
+	"category": "Drink"
+}]
+

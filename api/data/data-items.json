@@ -1,0 +1,63 @@
+[
+{
+    "name": "Hamburger",
+    "price": 80,
+    "description": "This is a hamburger",
+    "category": "Fast Food"
+},
+{
+    "name": "Chikenburger",
+    "price": 80,
+    "description": "This is a Chikenburger",
+    "category": "Fast Food"
+},
+{
+    "name": "Toast",
+    "price": 50,
+    "description": "This is a toast",
+    "category": "Fast Food"
+},
+{
+    "name": "Chiken Fingers",
+    "price": 180,
+    "description": "This is a Chiken Fingers",
+    "category": "Fast Food"
+},
+{
+    "name": "Chiken wings",
+    "price": 180,
+    "description": "This is a Chiken Wings",
+    "category": "Fast Food"
+},
+{
+    "name": "Pancakes",
+    "price": 80,
+    "description": "This is a Pancakes",
+    "category": "Desert"
+},
+{
+    "name": "Wafle",
+    "price": 100,
+    "description": "This is a Wafle",
+    "category": "Desert"
+},
+{
+    "name": "Coca Cola",
+    "price": 80,
+    "description": "This is a Coca Cola",
+    "category": "Drink"
+},
+{
+    "name": "Fanta",
+    "price": 80,
+    "description": "This is a Fanta",
+    "category": "Drink"
+},
+{
+    "name": "Beer",
+    "price": 80,
+    "description": "This is a Beer",
+    "category": "Drink"
+}
+
+]

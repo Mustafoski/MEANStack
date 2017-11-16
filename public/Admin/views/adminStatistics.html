@@ -1,0 +1,32 @@
+<div class = "row">
+    <div class = "col-md-12 col-sm-12">
+        <div class = "col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">TOTAL ORDERS</div>
+                <div class="panel-body"><center><h1>{{statistics.orders_count}}</h1></center></div>
+            </div>
+        </div>
+        <div class = "col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">TOTAL PROFIT</div>
+                <div class="panel-body"><center><h1>{{statistics.total_profit |currency}}</h1></center></div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class = "col-md-8">
+            <div class="panel panel-primary">
+                <div class="panel-heading">MOST SOLD COMBINATION -- APRIORI ALGORITHM </div>
+                <div class="panel-body" ng-repeat = "item in item_sets">
+                    <center><h3>{{item}}</h3></center></div>
+            </div>
+        </div>
+    </div>
+    <div class ="col-md-12 col-sm-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">ITEMS SOLD</div>
+            <div id = "columnchart_values"></div>
+        </div>
+        <!-- the chart will be injected here -->
+    </div>
+</div>
